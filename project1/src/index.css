@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100vh;
+  background-color: blue;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.full-screen-label {
+  background-color: rgb(0, 196, 55);
+  width: 100%;
+  height: 100vh;
+}
+body{
+  color: brown;
+}
+.thisisbody{
+  background-color:rgb(137, 170, 237);
+  position: fixed;
+  width: 100%;
+}
+.carddata{
+  background-color: rgb(17, 54, 186);
+  width: 490px;
+  text-align: center;
+  margin: 5% auto;
+  border-radius: 10px;
+  height: 520px;
+}
+.form-control{
+  margin-left: 29px;
+  border-radius: 23px;
+}
+input {
+  border: none;
+  outline: 0;
+  padding: 12px 25px;
+  font-size: 18px;
+  background-color: rgb(222, 237, 243);
+  color: black;
+  border-radius: 30px;
+  flex: 1;
+  margin-right: 0px;
+  width:350px;
+}
+.icon1{
+  width:50px;
+  cursor: pointer;
+}
+.weatherimg{
+  width:150px;
+}
+.humidimg{
+  width:86px;
+}
+.secondone{
+  text-align: left;
+}
+text{
+  color: white;
+}
+h2{
+  color: white;
+}
+h3{
+  color: white;
+}
+h5{
+  color: white;
+}
+.windimg{
+  width: 70px;
+}
+.searchicon{
+  color: red;
+  margin-left: 25px;
+  color: white;
+  cursor: pointer;
+}
+.windicon{
+  color: white;
+  height: 70px;
+  margin-left: 60px;
+}
+.humidicon{
+  color: white;
+  height: 70px;
+  margin-left: 20px;
+}
