@@ -113,7 +113,7 @@ const Myhome = () => {
             </div>
         </div>
     </div>
-    <p></p>
+   
 </div>
 </div>
 </div>
